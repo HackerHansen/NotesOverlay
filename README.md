@@ -18,3 +18,5 @@ This is part of a big chunk of text
 This is another part of the same big chunk of text
 These are clumped together so they will be shown together
 ```
+
+Run the program, select the file, and press the cycle key (numpad2 by default) to cycle through chunks of text. 
