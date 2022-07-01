@@ -20,3 +20,5 @@ These are clumped together so they will be shown together
 ```
 
 Run the program, select the file, and press the cycle key (numpad2 by default) to cycle through chunks of text. 
+
+If you're screensharing and would not like viewers to see the notes, make sure you're sharing only the presentation window and not your entire screen. 
